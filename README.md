@@ -1,2 +1,2 @@
 # paint1
-oaint for cmt
+Paint for cmt testing
