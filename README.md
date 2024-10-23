@@ -1,2 +1,2 @@
-# paint1
+# PaintForJS
 Paint for cmt testing
